@@ -7,8 +7,8 @@
 # 📊 GitHub Stats:
 
 <a href="https://github.com/Manan-Santoki">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Manan-Santoki&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Manan-Santoki&layout=compact&langs_count=8&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Manan-Santoki&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Manan-Santoki&layout=compact&langs_count=8&theme=dark"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=manan-santoki&theme=transparent&hide_border=false"/>
 </a>
 
