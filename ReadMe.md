@@ -1,6 +1,21 @@
-# 💫 About Me:
-🔭 I’m currently working on DevOps tools <br>👯 I’m looking to collaborate on Open Source Projects<br>🌱 I’m currently learning Google Cloud Computing<br>💬 Ask me about technology<br>⚡ Fun fact: I love Tech
+### About Me
 
+- Passionate web developer with a strong foundation in full-stack development
+- Keen interest in emerging technologies like cloud computing, XR, and AI
+- Currently pursuing a degree in Computer Science at the Vellore Institute of Technology
+- Hands-on experience in various projects, including:
+  - An attorney booking platform
+  - An inventory control system
+- Proficient in:
+  - JavaScript, HTML, CSS, and frameworks like React.js
+  - Building scalable web applications
+  - Deploying applications on cloud platforms such as AWS
+- Skills include:
+  - Linux and Bash scripting
+  - CI/CD practices for task automation and deployment optimization
+- Committed to continuous learning and collaboration in innovative environments
+
+Explore my repositories to see my work and projects!
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
