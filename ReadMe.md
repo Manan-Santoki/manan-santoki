@@ -72,4 +72,4 @@ A passionate DevOps & AI Engineer with a strong foundation in web development an
 ### 😂 Random Dev Meme
 [<img src='https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F6cn7m0gmi3je1.png' style="height: 400px;"/>
 ---
-[![](https://visitcount.itsvg.in/api?id=manan-santoki&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=manan-santoki&color=green)
