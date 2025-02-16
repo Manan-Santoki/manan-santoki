@@ -70,6 +70,6 @@ A passionate DevOps & AI Engineer with a strong foundation in web development an
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-[<img src='https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F6cn7m0gmi3je1.png' style="height: 400px;"/>
+<img src='https://i.redd.it/6cn7m0gmi3je1.png' style="height: 400px;"/>
 ---
 ![](https://komarev.com/ghpvc/?username=manan-santoki&color=green)
