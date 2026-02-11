@@ -96,7 +96,7 @@ Modern LaTeX editor designed for seamless document creation with real-time previ
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manan-santoki&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=manan-santoki&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
 </div>
 
 ## 📫 Get in Touch
