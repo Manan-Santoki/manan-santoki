@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner-light.svg">
+  <img alt="Manan Santoki — build, ship, self-host" src="./assets/profile-banner-light.svg" width="100%">
+</picture>
+
 <div align="center">
 
 # Manan Santoki
@@ -11,6 +17,12 @@ MS Computer Science @ Arizona State University · Tempe, Arizona
 </div>
 
 ---
+
+### Now shipping
+
+<!-- profile-now:start -->
+[**Firecrawl Community**](https://github.com/Manan-Santoki/firecrawl) `updated Sep 2` · [**Backslash**](https://github.com/Manan-Santoki/Backslash) `v0.1.0` · [**browserpilot**](https://github.com/Manan-Santoki/browserpilot) `v1.0.0`
+<!-- profile-now:end -->
 
 ### Selected work
 
