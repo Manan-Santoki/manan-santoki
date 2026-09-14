@@ -21,7 +21,7 @@ MS Computer Science @ Arizona State University · Tempe, Arizona
 ### Now shipping
 
 <!-- profile-now:start -->
-[**Firecrawl Community**](https://github.com/Manan-Santoki/firecrawl) `updated Sep 4` · [**Backslash**](https://github.com/Manan-Santoki/Backslash) `v0.1.0` · [**browserpilot**](https://github.com/Manan-Santoki/browserpilot) `v1.0.0`
+[**Firecrawl Community**](https://github.com/Manan-Santoki/firecrawl) `updated Sep 13` · [**GitHub Orbit**](https://github.com/Manan-Santoki/github-orbit) `updated Sep 11` · [**Backslash**](https://github.com/Manan-Santoki/Backslash) `v0.1.0`
 <!-- profile-now:end -->
 
 ### Selected work
